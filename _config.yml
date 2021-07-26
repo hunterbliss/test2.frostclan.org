@@ -1,1 +1,2 @@
-theme: jekyll-theme-cayman
+- name: Deploy WordPress
+  uses: rtCamp/action-deploy-wordpress@v2.2.0
